@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GraphicPiece
+comment1.params=isBlack\ isKing
+comment1.target=GraphicPiece(boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ isRoyalty()
+comment3.params=
+comment3.target=void\ select()
+comment4.params=
+comment4.target=void\ unSelect()
+comment5.params=
+comment5.target=void\ becomeKing()
+comment6.params=piece
+comment6.target=void\ receivePiece(Piece)
+comment7.params=
+comment7.target=Piece\ getPiece()
+comment8.params=
+comment8.target=greenfoot.GreenfootImage\ generateImage()
+comment9.params=
+comment9.target=void\ act()
+numComments=10

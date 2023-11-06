@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MessageBox
+comment1.params=message\ size\ isAuthor
+comment1.target=MessageBox(java.lang.String,\ int,\ boolean)
+comment2.params=message\ size\ delay
+comment2.target=void\ setMessage(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

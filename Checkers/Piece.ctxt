@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\n\ The\ checker\ piece\n
+comment1.params=isBlack\ isKing
+comment1.target=Piece(boolean,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Piece\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ isKing()
+comment3.params=
+comment3.target=boolean\ isBlack()
+comment4.params=
+comment4.target=void\ becomeKing()
+comment5.params=space
+comment5.target=void\ inSpace(Space)
+comment6.params=
+comment6.target=Space\ mySpace()
+comment7.params=
+comment7.target=java.util.ArrayList\ canCaptureSpaces()
+comment8.params=
+comment8.target=boolean\ hasMoves()
+comment9.params=
+comment9.target=java.util.ArrayList\ myMoves()
+numComments=11

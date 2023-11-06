@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ isBlack
+comment1.target=Player(java.lang.String,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Player\n
+comment2.params=
+comment2.target=void\ setWinImage()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=boolean\ isBlack()
+comment5.params=
+comment5.target=void\ addWin()
+comment6.params=
+comment6.target=int\ getWins()
+comment7.params=msg
+comment7.target=void\ getInput(java.lang.String)
+numComments=8
