@@ -4,4 +4,4 @@ I used Java to create a digital checkers game with user interface from scratch. 
 Link to Greenfoot Senario: https://www.greenfoot.org/scenarios/32337
 <br>  
 
-![](https://github.com/HexinJ/Checkers/blob/main/Checkers.png = 250x250)
+![](https://github.com/HexinJ/Checkers/blob/main/Checkers.png | width=250 )
