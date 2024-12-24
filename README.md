@@ -6,9 +6,9 @@ I developed a digital checkers game from scratch using Java, complete with a use
 - Rules and Gameplay Mechanics: The rules for legal moves, capturing pieces, and win conditions were implemented within the abstract board class to ensure the game adhered to the official rules of checkers.
 - 
 This project demonstrates my ability to combine logic, graphical design, and user interaction to create a functional and engaging application.
-<br>
+
 Link to Greenfoot Senario: https://www.greenfoot.org/scenarios/32337
-<br>  
+
 
 
 
